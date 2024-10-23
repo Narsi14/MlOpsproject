@@ -13,7 +13,7 @@ list_of_files =[
     "src/pipeline/__init__.py",
     "src/pipeline/training_pipeline.py",
     "src/pipeline/prediction_pipeline.py",
-    "src/utils/__init__.py"
+    "src/utils/__init__.py",
     "src/utils/utils.py",
     "src/logger/logging.py",
     "src/exception/exception.py",
@@ -23,7 +23,7 @@ list_of_files =[
     "requirements.txt",
     "requirement_dev.txt",
     "setup.py",
-    "setup.config",
+    "setup.cfg",
     "pyproject.toml",
     "tox.ini",
     "experiment/experiments.ipynb"    
